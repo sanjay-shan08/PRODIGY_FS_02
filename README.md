@@ -9,7 +9,14 @@
 </ul>
 <h2>Technical Stack</h2>
 <ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
+<li>HTML: Sets up the structure for the form and table.</li>
+<li>CSS: Provides stylingthe make the page readable</li>
+<li>JavaScript:</li>
+
+<ul type="square">
+<li>Manages employee data in an array</li>
+<li>handles form submissions for adding or editing</li>
+<li>Dynamically renders the table with employee data</li>
+<li>Implements edit and delete functionalities</li>
+</ul>
 </ul>

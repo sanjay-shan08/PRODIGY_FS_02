@@ -1,6 +1,7 @@
 body {
     font-family: arial;
     margin: 20px;
+    text-align: center;
 }
 .form-container, .table-container {
     margin-bottom: 20px;

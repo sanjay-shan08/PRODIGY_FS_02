@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: arial;
     margin: 20px;
 }
 .form-container, .table-container {
@@ -14,7 +14,7 @@ table {
 th, td {
     border: 1px solid #ddd;
     padding: 8px;
-    text-align: left;
+    text-align: center;
 }
 button {
     margin-right: 5px;

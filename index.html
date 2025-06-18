@@ -8,15 +8,17 @@
     </head>
     <body>
         <h1>Employee Login</h1>
-        <div class="form-container">
+        <div class="login-container">
             <img src="./pro.png" style="height:100px">
-            <form id="log">
+            <form id="loginForm">
                 <label for="uid">User id:</label>
                 <input type="text" id="uid" required><br>
                 <label for="pass">Password</label>
                 <input type="password" id="pass" required><br>
                 <button type="submit">Enter</button>
+                <div id="errorMessage" class="error-message"></div>
             </form>
         </div>
+        <script src="auth.js"></script>
     </body>
 </html>
